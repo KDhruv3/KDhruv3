@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to Operating Systems**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W4X7zdeFd_B4NYql6miaDFSAI4s45w3t/view?usp=drive_link)
+- 📄 Know about my experiences -> https://drive.google.com/file/d/1W4X7zdeFd_B4NYql6miaDFSAI4s45w3t/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
